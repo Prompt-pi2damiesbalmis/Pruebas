@@ -6,3 +6,6 @@
 
 \* Mi lenguaje favorito es Python
 
+\* Michel
+
+Mi hobbie es jugar al padel y a videojuegos
